@@ -1,8 +1,4 @@
-# React + Vite
+# API RICK Y MORTY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esta app a diferencia de la pokedex tiene unos cambios, al momento de buscar a algun personaje aparecen las coincidencias con la letra o nombre que halla puesto
+Hasta el momento esta solo es una verison 1.0.0 19/10/24
